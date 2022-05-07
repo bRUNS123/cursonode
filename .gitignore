@@ -1,0 +1,9 @@
+/salida/*.txt
+node_modules/
+
+#npm install para paquetes faltantes
+
+#git init
+#git add .
+#git commit -m "Primer commit"
+#git chekcout -- . (recuperar)
